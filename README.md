@@ -1,6 +1,6 @@
 # Authors
 
-- Mr. Enrico Schiassi - PhD Student, Systems and Industrial Engineering, University of Arizona, Tucson, AZ
+- Dr. Enrico Schiassi - PhD (University of Arizona, Tucson, AZ)
 - Dr. Roberto Furfaro - Professor, Systems and Industrial Engineering, University of Arizona, Tucson, AZ
 - Dr. Jeffrey S. Kargel - Senior Scientist, Planetary Science Institute, Tucson, AZ
 
@@ -27,5 +27,6 @@
 
 # Contacts
 
-- robertof@email.arizona.edu
-- eschiassi@email.arizona.edu
+- Dr. Roberto Furfaro, robertof@email.arizona.edu
+- Dr. Enrico Schiassi, enrico.schiassi@gmail.com
+- Dr. Jeffrey S. Kargel, jkargel@psi.edu
